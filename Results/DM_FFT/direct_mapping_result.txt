@@ -1,0 +1,82 @@
+Direct mapping cache 
+**************************************************
+For cache size : 2 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7094890
+Read misses : 2759666 
+Write misses : 1299137
+Compulsory misses : 2 
+**************************************************
+For cache size : 4 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7077513
+Read misses : 2743510 
+Write misses : 1297932
+Compulsory misses : 4 
+**************************************************
+For cache size : 8 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7055883
+Read misses : 2738820 
+Write misses : 1280994
+Compulsory misses : 7 
+**************************************************
+For cache size : 16 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7055883
+Read misses : 2738820 
+Write misses : 1280994
+Compulsory misses : 8 
+**************************************************
+For cache size : 32 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7055187
+Read misses : 2738411 
+Write misses : 1280707
+Compulsory misses : 10 
+**************************************************
+For cache size : 64 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7055187
+Read misses : 2738411 
+Write misses : 1280707
+Compulsory misses : 10 
+**************************************************
+For cache size : 128 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 7055187
+Read misses : 2738411 
+Write misses : 1280707
+Compulsory misses : 10 
+**************************************************
+For cache size : 512 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 6170718
+Read misses : 2205280 
+Write misses : 931424
+Compulsory misses : 19 
+**************************************************
+For cache size : 1024 KB and block size : 1 word
+Cache access : 7451717
+Read access : 2938498 
+Write access : 1388765
+Cache miss : 6169332
+Read misses : 2204425 
+Write misses : 931253
+Compulsory misses : 31 
